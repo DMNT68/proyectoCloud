@@ -9,7 +9,7 @@ if (isset($_GET['controller']) ) {
 	pg_close($conn);	
 	
 }else{
-	require_once('controllers/login.php');		
+	require_once('controllers/users.php');		
 }
 
 ?>
