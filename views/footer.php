@@ -1,5 +1,5 @@
 <div class="footer">
-   		<p class="text-center bg-info">Copyright (c) 2016</p>
+   		<p class="text-center bg-info">CLOUD</p>
  	</div>
 </body>
 </html>
